@@ -1,5 +1,19 @@
-.header {
-  background-color: black;
-  color: white;
+body {
   font-family: sans-serif;
+  width: 400px;
+  background-color: #91bbff;
+  color: white;
+}
+.header {
+  background-color: #39598c;
+  text-align: center;
+}
+.tagline {
+  
+}
+.skills {
+  
+}
+.contact {
+  
 }
